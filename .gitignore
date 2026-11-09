@@ -1,0 +1,6 @@
+lowest_price_*.txt
+*.log
+.env
+.browser_profile/
+__pycache__/
+.claude/settings.local.json
